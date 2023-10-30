@@ -1,0 +1,43 @@
+body{
+    background-image: url("https://pumasdc.com.co/SITSS/resources/img/Recurso%201.png");
+    background-size: cover;
+    background-repeat:no-repeat ;
+}
+.titulo{
+    background-color: red !important;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+}
+
+
+.card{
+    margin-top: 100px !important;
+}
+
+.form{
+    text-align: center;
+}
+
+.button{
+    text-align: center;
+
+}
+
+.boton{
+    background-color: red !important;
+    border-radius:10px !important;
+    width: 140px !important;
+    height: 40px !important;
+    border:none !important;
+}
+
+.form input{
+    border: none !important;
+    border-bottom: red 0.7px solid !important;
+    width: 380px;
+}
+
+.pass{
+    color: rgb(94, 93, 93);
+}
